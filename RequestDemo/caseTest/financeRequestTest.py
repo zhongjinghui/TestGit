@@ -22,7 +22,8 @@ class FinanceTest(unittest.TestCase):
         msg = myRequest(data[1][3], data[1][4], method=data[1][2])
         self.assertEqual(msg, 0)
         return msg
-
+    def test_requ(self):
+        pass
 
 
 
