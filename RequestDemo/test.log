@@ -2,13 +2,6 @@
 2017-12-25 16:43:30,115 - 15436 - INFO : testing at : testloglog
 2017-12-25 16:44:12,157 - 14408 - INFO : testing at : testloglog
 2017-12-25 16:44:44,828 - 15048 - INFO : testing at : testloglog
-2017-12-25 16:48:40,634 - 9556 - INFO : testing at : testloglog
-2017-12-25 16:49:10,209 - 8256 - INFO : testing at : testloglog
-2017-12-25 16:52:43,496 - 15020 - INFO : testing at : testloglog
-2017-12-25 16:53:07,135 - 16312 - INFO : testing at : testloglog
-2017-12-25 16:56:20,203 - 15960 - INFO : testing at : testloglog
-2017-12-25 16:57:32,038 - 15296 - INFO : testing at : testloglog
-2017-12-25 16:57:56,986 - 2384 - INFO : testing at : testloglog
 2017-12-25 16:57:56,986 - 2384 - INFO : cese
 2017-12-25 16:58:27,257 - 4444 - INFO : testing at : testloglog
 2017-12-25 16:58:27,257 - 4444 - ERROR : one assert at : 
@@ -33,7 +26,7 @@ cannot concatenate 'str' and 'int' objects
 2017-12-26 16:25:09,263 - 17328 - INFO : None
 2017-12-26 16:26:02,674 - 11136 - INFO : myRequest
 2017-12-26 16:26:50,426 - 15912 - INFO : myRequest
-2017-12-26 16:32:28,641 - 16564 - INFO : get_cookie
+2017-12-26 16:32:28,641 - 16564 -  : get_cookie
 2017-12-26 16:32:28,670 - 16564 - INFO : myRequest
 2017-12-26 16:35:06,910 - 6252 - INFO : get_cookie
 2017-12-26 16:35:10,525 - 6252 - INFO : myRequest
