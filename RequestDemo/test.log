@@ -1,14 +1,5 @@
 2017-12-25 16:43:20,884 - 14868 - INFO : testing at : testloglog
-2017-12-25 16:43:30,115 - 15436 - INFO : testing at : testloglog
-2017-12-25 16:44:12,157 - 14408 - INFO : testing at : testloglog
-2017-12-25 16:44:44,828 - 15048 - INFO : testing at : testloglog
-2017-12-25 16:57:56,986 - 2384 - INFO : cese
-2017-12-25 16:58:27,257 - 4444 - INFO : testing at : testloglog
-2017-12-25 16:58:27,257 - 4444 - ERROR : one assert at : 
-cannot concatenate 'str' and 'int' objects
 
-2017-12-25 17:09:02,414 - 14964 - INFO : testing at : testloglog
-2017-12-25 17:09:02,415 - 14964 - ERROR : one assert at : 
 cannot concatenate 'str' and 'int' objects
 
 2017-12-25 17:12:16,888 - 15176 - INFO : testloglog
